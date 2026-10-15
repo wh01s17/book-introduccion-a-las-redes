@@ -1,0 +1,52 @@
+# Repositorio de documentación del libro. Los PDF se publican como archivos de GitHub Releases,
+# no en el historial de git. El libro se genera y valida fuera de este repositorio.
+
+# PDF y carpeta de preparación de cada Release (dist/vX.Y.Z/)
+*.pdf
+dist/
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Temporales y registros
+*.tmp
+*.temp
+*.log
+tmp/
+temp/
+
+# Cachés y dependencias
+.cache/
+__pycache__/
+*.pyc
+node_modules/
+.npm/
+
+# Resultados intermedios de generación
+work/
+build/
+out/
+*.pdf.part
+
+# Copias de seguridad
+*.bak
+*.orig
+*.old
+backup/
+backups/
+
+# Archivos privados o internos del proyecto de desarrollo
+.env
+.env.*
+.obsidian/
+.trash/
+_libro/
+auditoria/
+publicacion-candidata/
