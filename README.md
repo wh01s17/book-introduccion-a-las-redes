@@ -1,12 +1,23 @@
 # Introducción a las Redes
 
-**Autor:** Jordy Pérez · **Versión:** 1.0.0 · **Fecha:** octubre de 2026 · **Extensión:** 872 páginas · **Idioma:** español
+Un libro en español para entender cómo funcionan las redes de datos: desde los medios físicos y Ethernet hasta IPv4, IPv6, los servicios de red y la seguridad básica.
 
-**Licencia:** [CC BY-NC-SA 4.0](LICENSE.md) (contenido original)
+<p align="center">
+  <a href="https://github.com/wh01s17/book-introduccion-a-las-redes/releases/latest/download/introduccion-a-las-redes.pdf">
+    <img src="assets/images/portada.png" alt="Portada de Introducción a las Redes, de Jordy Pérez, versión 1.0.0, octubre de 2026" width="440">
+  </a>
+</p>
 
-Libro de estudio sobre fundamentos de redes de datos, desde los componentes que forman una red hasta la operación y la seguridad de una red pequeña. Combina la explicación conceptual con diagramas originales, tablas de referencia y ejemplos de configuración en Cisco IOS.
+<p align="center">
+  <a href="https://github.com/wh01s17/book-introduccion-a-las-redes/releases/latest/download/introduccion-a-las-redes.pdf"><strong>Descargar libro completo (PDF · 21,8 MB)</strong></a><br>
+  <a href="#contenido">Descargar por módulo</a> · <a href="#vista-previa-del-índice">Ver el índice</a> · <a href="https://github.com/wh01s17/book-introduccion-a-las-redes/releases">Todas las versiones</a>
+</p>
 
-Los contenidos siguen la secuencia de los 17 módulos del temario CCNA: Introducción a las Redes (ITN). Esta edición reúne solo los contenidos teóricos, sin preguntas, ejercicios ni actividades prácticas.
+**Jordy Pérez** · Versión **1.0.0** · Octubre de 2026 · **872 páginas** · [CC BY-NC-SA 4.0](LICENSE.md)
+
+Combina explicaciones conceptuales, diagramas originales, tablas de referencia y ejemplos de configuración en Cisco IOS. Sus **17 módulos, organizados en siete partes**, siguen la secuencia del temario CCNA: Introducción a las Redes (ITN). Incluye una referencia de comandos, un glosario de siglas y bibliografía.
+
+Esta edición reúne los contenidos teóricos, sin preguntas, ejercicios ni actividades prácticas.
 
 > **Aviso:** este libro es material de estudio independiente, elaborado a partir de las notas personales de estudio de CCNA del autor. **No es una publicación oficial de Cisco Systems ni de Cisco Networking Academy**, no está respaldado por ellas y no reemplaza la documentación de los fabricantes.
 
@@ -21,7 +32,28 @@ Los PDF se publican en la sección [Releases](https://github.com/wh01s17/book-in
 
 Cada PDF por módulo incluye la portada, la página legal y las páginas del módulo con la misma numeración que el libro completo.
 
-Las ediciones anteriores siguen disponibles en [todas las versiones](https://github.com/wh01s17/book-introduccion-a-las-redes/releases). Cada versión incluye el archivo `SHA256SUMS.txt`, que permite comprobar la integridad de las descargas con `sha256sum -c SHA256SUMS.txt`.
+Las ediciones anteriores siguen disponibles en [todas las versiones](https://github.com/wh01s17/book-introduccion-a-las-redes/releases). Cada versión incluye el archivo `SHA256SUMS.txt` para comprobar la integridad de las descargas.
+
+<details>
+<summary>Cómo verificar los archivos descargados</summary>
+
+Descarga `SHA256SUMS.txt` desde la misma versión que los PDF y guárdalo en la misma carpeta. Desde esa carpeta, ejecuta en Linux:
+
+```sh
+sha256sum --ignore-missing -c SHA256SUMS.txt
+```
+
+La opción `--ignore-missing` permite verificar solo los archivos que descargaste. Cada PDF verificado debe mostrar `OK` o `La suma coincide`, según el idioma del sistema.
+
+</details>
+
+## Vista previa del índice
+
+Estas son las tres páginas del índice de la **versión 1.0.0**, extraídas del PDF publicado. Haz clic en cada captura para verla en tamaño completo.
+
+| Índice · página iv | Índice · página v | Índice · página vi |
+| :---: | :---: | :---: |
+| [![Índice, página iv: partes I a III, fundamentos de redes, capa física, sistemas numéricos y Ethernet](assets/images/indice-01.png)](assets/images/indice-01.png) | [![Índice, página v: partes IV y V e inicio de la parte VI, enrutamiento, direccionamiento IP, diagnóstico y transporte](assets/images/indice-02.png)](assets/images/indice-02.png) | [![Índice, página vi: continuación de la parte VI, parte VII y apéndices, aplicaciones, seguridad, redes pequeñas y material de apoyo](assets/images/indice-03.png)](assets/images/indice-03.png) |
 
 ## A quién está dirigido
 
@@ -29,6 +61,8 @@ Las ediciones anteriores siguen disponibles en [todas las versiones](https://git
 - Estudiantes que preparan el curso CCNA: Introducción a las Redes y quieren un texto de consulta en español que acompañe su estudio.
 
 Cada sigla se explica la primera vez que aparece, en español y con su forma original en inglés.
+
+Puedes leerlo en orden para avanzar desde los fundamentos o descargar un módulo como texto de consulta. El índice enlazado y los marcadores del PDF permiten saltar entre secciones; la referencia de comandos y el glosario reúnen el material de apoyo al final del libro.
 
 ## Contenido
 
@@ -96,7 +130,7 @@ El apéndice A (referencia de comandos de Cisco IOS), el glosario de siglas y la
 
 Si encuentras un error técnico, una errata o un enlace que no funciona:
 
-1. Abre un *issue* en este repositorio. Indica el documento (libro completo o módulo), el número de página impreso y la sección, y describe brevemente el problema y la corrección propuesta.
+1. [Abre un *issue*](https://github.com/wh01s17/book-introduccion-a-las-redes/issues/new). Indica el documento (libro completo o módulo), su versión, el número de página impreso y la sección, y describe brevemente el problema y la corrección propuesta.
 2. Si prefieres proponer el cambio directamente, envía un *pull request*. Este repositorio contiene los PDF ya generados, así que describe en el PR la página, el texto actual y el texto corregido; la corrección se incorporará en la siguiente versión del libro.
 3. También puedes escribir mediante el formulario de contacto de [wh01s17.com](https://www.wh01s17.com/#contact).
 
@@ -105,6 +139,7 @@ Las correcciones se publican como nuevas versiones y se registran en el [CHANGEL
 ## Licencia
 
 © 2026 Jordy Pérez. El contenido original de esta obra, incluidos el texto y los diagramas, se distribuye bajo la licencia [Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es). Puedes copiarla, distribuirla y adaptarla siempre que:
+
 - cites al autor;
 - no la uses con fines comerciales;
 - compartas las adaptaciones con la misma licencia.
