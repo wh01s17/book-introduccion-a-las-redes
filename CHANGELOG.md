@@ -2,6 +2,12 @@
 
 Este archivo registra los cambios de cada versión publicada del libro.
 
+## [1.0.3] · octubre de 2026
+
+### Agregado
+
+- ISBN de la obra: **978-956-03-1451-2** (PDF), asignado por la Agencia ISBN de la Cámara Chilena del Libro. Aparece en la página de créditos del libro completo y de los 17 módulos, y en las palabras clave de los metadatos del PDF.
+
 ## [1.0.2] · octubre de 2026
 
 ### Cambiado
