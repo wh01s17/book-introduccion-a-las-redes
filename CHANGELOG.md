@@ -2,6 +2,13 @@
 
 Este archivo registra los cambios de cada versión publicada del libro.
 
+## [1.0.2] · octubre de 2026
+
+### Cambiado
+
+- La página de créditos incorpora el nombre legal completo del autor, Jordy Javier Pérez Osorio, como autor y titular de los derechos de autor. «Jordy Pérez» se mantiene como nombre editorial y la licencia sigue siendo CC BY-NC-SA 4.0.
+- Metadatos de los PDF: el título es «Introducción a las redes» y el autor «Jordy Javier Pérez Osorio», en el libro completo y en los 17 módulos.
+
 ## [1.0.1] · octubre de 2026
 
 ### Corregido

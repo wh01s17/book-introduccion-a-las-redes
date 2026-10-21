@@ -4,7 +4,7 @@ Un libro en español para entender cómo funcionan las redes de datos: desde los
 
 <p align="center">
   <a href="https://github.com/wh01s17/book-introduccion-a-las-redes/releases/latest/download/introduccion-a-las-redes.pdf">
-    <img src="assets/images/portada.png" alt="Portada de Introducción a las Redes, de Jordy Pérez, versión 1.0.1, octubre de 2026" width="440">
+    <img src="assets/images/portada.png" alt="Portada de Introducción a las Redes, de Jordy Pérez, versión 1.0.2, octubre de 2026" width="440">
   </a>
 </p>
 
@@ -13,7 +13,7 @@ Un libro en español para entender cómo funcionan las redes de datos: desde los
   <a href="#contenido">Descargar por módulo</a> · <a href="#vista-previa-del-índice">Ver el índice</a> · <a href="https://github.com/wh01s17/book-introduccion-a-las-redes/releases">Todas las versiones</a>
 </p>
 
-**Jordy Pérez** · Versión **1.0.1** · Octubre de 2026 · **871 páginas** · [CC BY-NC-SA 4.0](LICENSE.md)
+**Jordy Pérez** · Versión **1.0.2** · Octubre de 2026 · **871 páginas** · [CC BY-NC-SA 4.0](LICENSE.md)
 
 Combina explicaciones conceptuales, diagramas originales, tablas de referencia y ejemplos de configuración en Cisco IOS. Sus **17 módulos, organizados en siete partes**, siguen la secuencia del temario CCNA: Introducción a las Redes (ITN). Incluye una referencia de comandos, un glosario de siglas y bibliografía.
 
@@ -49,7 +49,7 @@ La opción `--ignore-missing` permite verificar solo los archivos que descargast
 
 ## Vista previa del índice
 
-Estas son las tres páginas del índice de la **versión 1.0.1**, extraídas del PDF publicado. Haz clic en cada captura para verla en tamaño completo.
+Estas son las tres páginas del índice de la **versión 1.0.2**, extraídas del PDF publicado. Haz clic en cada captura para verla en tamaño completo.
 
 | Índice · página iv | Índice · página v | Índice · página vi |
 | :---: | :---: | :---: |
