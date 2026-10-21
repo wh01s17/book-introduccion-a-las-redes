@@ -2,6 +2,13 @@
 
 Este archivo registra los cambios de cada versión publicada del libro.
 
+## [1.0.1] · octubre de 2026
+
+### Corregido
+
+- Se quitó el título de 15 diagramas que repetían el encabezado de la sección en la que aparecen. El subtítulo ocupa ahora su lugar. Afecta a los módulos 1, 2, 3, 4, 9, 11, 14 y 17.
+- El libro completo pasa de 872 a 871 páginas, y el módulo 3 de 44 a 43. Los números de página posteriores al módulo 3 se desplazan una página.
+
 ## [1.0.0] · octubre de 2026
 
 Primera edición publicada.

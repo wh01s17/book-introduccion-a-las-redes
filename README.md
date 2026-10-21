@@ -4,7 +4,7 @@ Un libro en español para entender cómo funcionan las redes de datos: desde los
 
 <p align="center">
   <a href="https://github.com/wh01s17/book-introduccion-a-las-redes/releases/latest/download/introduccion-a-las-redes.pdf">
-    <img src="assets/images/portada.png" alt="Portada de Introducción a las Redes, de Jordy Pérez, versión 1.0.0, octubre de 2026" width="440">
+    <img src="assets/images/portada.png" alt="Portada de Introducción a las Redes, de Jordy Pérez, versión 1.0.1, octubre de 2026" width="440">
   </a>
 </p>
 
@@ -13,7 +13,7 @@ Un libro en español para entender cómo funcionan las redes de datos: desde los
   <a href="#contenido">Descargar por módulo</a> · <a href="#vista-previa-del-índice">Ver el índice</a> · <a href="https://github.com/wh01s17/book-introduccion-a-las-redes/releases">Todas las versiones</a>
 </p>
 
-**Jordy Pérez** · Versión **1.0.0** · Octubre de 2026 · **872 páginas** · [CC BY-NC-SA 4.0](LICENSE.md)
+**Jordy Pérez** · Versión **1.0.1** · Octubre de 2026 · **871 páginas** · [CC BY-NC-SA 4.0](LICENSE.md)
 
 Combina explicaciones conceptuales, diagramas originales, tablas de referencia y ejemplos de configuración en Cisco IOS. Sus **17 módulos, organizados en siete partes**, siguen la secuencia del temario CCNA: Introducción a las Redes (ITN). Incluye una referencia de comandos, un glosario de siglas y bibliografía.
 
@@ -27,7 +27,7 @@ Los PDF se publican en la sección [Releases](https://github.com/wh01s17/book-in
 
 | Documento | Formato | Tamaño |
 | --- | --- | --: |
-| [**Libro completo: Introducción a las Redes**](https://github.com/wh01s17/book-introduccion-a-las-redes/releases/latest/download/introduccion-a-las-redes.pdf) | PDF, 872 páginas, con índice enlazado y marcadores | 21,8 MB |
+| [**Libro completo: Introducción a las Redes**](https://github.com/wh01s17/book-introduccion-a-las-redes/releases/latest/download/introduccion-a-las-redes.pdf) | PDF, 871 páginas, con índice enlazado y marcadores | 21,8 MB |
 | Módulos individuales (ver [Contenido](#contenido)) | 17 PDF, uno por módulo, con marcadores por sección | 28,2 MB en total |
 
 Cada PDF por módulo incluye la portada, la página legal y las páginas del módulo con la misma numeración que el libro completo.
@@ -49,7 +49,7 @@ La opción `--ignore-missing` permite verificar solo los archivos que descargast
 
 ## Vista previa del índice
 
-Estas son las tres páginas del índice de la **versión 1.0.0**, extraídas del PDF publicado. Haz clic en cada captura para verla en tamaño completo.
+Estas son las tres páginas del índice de la **versión 1.0.1**, extraídas del PDF publicado. Haz clic en cada captura para verla en tamaño completo.
 
 | Índice · página iv | Índice · página v | Índice · página vi |
 | :---: | :---: | :---: |
@@ -76,7 +76,7 @@ La columna «Páginas» indica las páginas de cada PDF individual, incluidas la
 | --: | --- | --: | --- |
 | 1 | Redes en la actualidad | 9 | [PDF (0,8 MB)](https://github.com/wh01s17/book-introduccion-a-las-redes/releases/latest/download/modulo-01-redes-en-la-actualidad.pdf) |
 | 2 | Configuración básica de switches y dispositivos finales | 8 | [PDF (0,7 MB)](https://github.com/wh01s17/book-introduccion-a-las-redes/releases/latest/download/modulo-02-configuracion-basica-de-switches-y-dispositivos-finales.pdf) |
-| 3 | Protocolos y modelos | 44 | [PDF (1,4 MB)](https://github.com/wh01s17/book-introduccion-a-las-redes/releases/latest/download/modulo-03-protocolos-y-modelos.pdf) |
+| 3 | Protocolos y modelos | 43 | [PDF (1,4 MB)](https://github.com/wh01s17/book-introduccion-a-las-redes/releases/latest/download/modulo-03-protocolos-y-modelos.pdf) |
 
 **Parte II · Capa física y sistemas numéricos**
 
